@@ -1,0 +1,3 @@
+np.isnan - detecting missing values
+NaN not a number
+returns a boolean array

@@ -1,0 +1,16 @@
+1-understand data set
+2- identify the problems
+3-plan next steps
+
+1-cloumns , rows
+2 - what type of data 
+3- missing data 
+
+info()
+method
+
+1-no of rows , columns
+2-columns names 
+3- datatypes 
+4- non null counts 
+5 - memory usage of data frame
